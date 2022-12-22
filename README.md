@@ -13,4 +13,4 @@
 
 ##Project work:
 - Building a landing page for Omnifood website using only HTML, CSS and very little to no Javascript.
-- Making use of only pure HTML and CSS ** No CSS framework **
+- Making use of only pure HTML and CSS **No CSS Framework**.
