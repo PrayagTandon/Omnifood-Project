@@ -12,4 +12,5 @@
 - We have partnered with the top restaurants of the city to prepare and deliver the meals the user decide.
 
 ##Project work:
--
+- Building a landing page for Omnifood website using only HTML, CSS and very little to no Javascript.
+- Making use of only pure HTML and CSS ** No CSS framework **
