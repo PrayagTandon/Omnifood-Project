@@ -28,9 +28,14 @@
 * Inter -> Family: sans-serif , Font-weight used : 400,500,600,700.
 + Noto Sans -> Family: sans-serif , Font-weight used : 400,500,600,700.
 
-2. Colors: 
+2. Colors: Source : OpenColors(https://yeun.github.io/open-color/) , Coolors(https://coolors.co/palettes/trending)
 - Main color: `#e67e22`
-* Greys : Source : OpenColors(https://yeun.github.io/open-color/) , Coolors(https://coolors.co/palettes/trending)
+* Greys : 
+
          - For long texts : `#555555`
-         - For headings : `#333333` 
+         - For headings : `#333333`
+          
++ Tints and Shades: Source: Tints and Shades generator (https://maketintsandshades.com/)
+
+3. 
 
