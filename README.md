@@ -11,6 +11,16 @@
 ```
 - We have partnered with the top restaurants of the city to prepare and deliver the meals the user decide.
 
-##Project work:
-- Building a landing page for Omnifood website using only HTML, CSS and very little to no Javascript.
-- Making use of only pure HTML and CSS **No CSS Framework**.
+##Project Overwiew:
+- Designing and Building a landing page for Omnifood website using only HTML, CSS and very little to no Javascript.
+- Making use of only pure HTML and CSS. 
+- **No CSS Framework**.
+
+###Designing the Website:
+- The company focuses on consumer well being by providing a healthy diet. So, the overall personality of the website need to be more consumer focused and easy to navigate.
+- Different design elements for the website:
+```
+1. Typography: Selected 3 different fonts based on Serif and Sans-Serif typefaces.
+
+```
+
