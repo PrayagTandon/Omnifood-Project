@@ -30,6 +30,7 @@
 
 2. Colors: 
 - Main color: `#e67e22`
-* Greys : - For long texts : `#555555`
-          * For headings : `#333333` 
+* Greys : Source : OpenColors(https://yeun.github.io/open-color/) , Coolors(https://coolors.co/palettes/trending)
+         - For long texts : `#555555`
+         - For headings : `#333333` 
 
