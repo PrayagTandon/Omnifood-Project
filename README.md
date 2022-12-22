@@ -20,8 +20,11 @@
 - The company focuses on consumer well being by providing a healthy diet. So, the overall personality of the website need to be more consumer focused and easy to navigate.
 - Different design elements for the website:
 ```
-1. Typography: Selected 3 different fonts based on Serif and Sans-Serif typefaces.
+1. Typography: Selected 3 different fonts based on Sans-Serif typefaces.
 > Source:Google Fonts(https://fonts.google.com/)
+- Rubik -> Family: sans-serif , Font-weight used : 400,500,600,700.
+* Inter -> Family: sans-serif , Font-weight used : 400,500,600,700.
++ Noto Sans -> Family: sans-serif , Font-weight used : 400,500,600,700.
 
 ```
 
