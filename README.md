@@ -11,7 +11,7 @@
 ```
 - We have partnered with the top restaurants of the city to prepare and deliver the meals the user decide.
 
-##Project Overwiew:
+## Project Overwiew:
 - Designing and Building a landing page for Omnifood website using only HTML, CSS and very little to no Javascript.
 - Making use of only pure HTML and CSS. 
 - **No CSS Framework**.
@@ -29,4 +29,7 @@
 + Noto Sans -> Family: sans-serif , Font-weight used : 400,500,600,700.
 
 2. Colors: 
+- Main color: `#e67e22`
+* Greys : - For long texts : `#555555`
+          * For headings : `#333333` 
 
