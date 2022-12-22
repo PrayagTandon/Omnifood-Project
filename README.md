@@ -36,11 +36,35 @@
 - Main color: `#e67e22`
 * Greys : 
 
-         - For long texts : `#555555`
-         - For headings : `#333333`
+         - For long texts : #555555
+         - For headings : #333333
           
 + Tints and Shades: Source: Tints and Shades generator (https://maketintsandshades.com/)
 
 4. Images: Source: Unsplash(https://unsplash.com/) , Pexels(https://www.pexels.com/)
 
+#### Defining the different sections of the webpage.
 
+- Logo + Navigation
+- Hero Section
+- Featured In
+- How it works
+- Meals(and list of Diets)
+- Pictures + Testimonials
+- Pricing + Features
+- Call-to-action
+- Footer
+
+#### Setting the development environment
+
+- To make the website responsive from start I used relative units for lengths such as rem, percentage instead of px
+* Set the font-size of the root element of the page to **62.5%** to make it easier for calculation(Default font size of browser is 16px so, 62.5% will convert it into 10px and thus 1 rem = 10px).
++ Font size and spacing system defined:
+```
+Font sizes (px)
+10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
+Letter spacing(px)
+2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128
+
+```
+- Code Editor: VS Code
