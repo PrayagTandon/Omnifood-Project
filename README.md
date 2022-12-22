@@ -1,6 +1,6 @@
 # Omnifood-Project
 
-##Description: 
+## Description: 
 - Omnifood is a food delivery website that provides monthly plan for a meal comprising of different diets such as Vegan, Gluten-free, Lactose-free, Vegeterian, Keto and many more.
 - Users can select among different meal plans and the meals will be delivered to them as per their requirement.
 - The Omnifood App makes use of A.I. in order to provide the best meal to the users as per their diet.
@@ -16,11 +16,11 @@
 - Making use of only pure HTML and CSS. 
 - **No CSS Framework**.
 
-###Designing the Website:
+### Designing the Website:
 - The company focuses on consumer well being by providing a healthy diet. So, the overall personality of the website need to be more consumer focused and easy to navigate.
 - Different design elements for the website:
 
-####Day 1 : Selecting the different design elements and sketching a basic layout.
+#### Day 1 : Selecting the different design elements and sketching a basic layout.
 
 1. Typography: Selected 3 different fonts based on Sans-Serif typefaces.
 > Source:Google Fonts(https://fonts.google.com/)
