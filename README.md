@@ -21,7 +21,7 @@
 - Different design elements for the website:
 ```
 1. Typography: Selected 3 different fonts based on Serif and Sans-Serif typefaces.
-_source: [Google Fonts](https://fonts.google.com/)_
+*source:Google Fonts(https://fonts.google.com/)*
 
 ```
 
