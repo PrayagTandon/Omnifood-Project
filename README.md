@@ -15,20 +15,24 @@
 - Designing and Building a landing page for Omnifood website using only HTML, CSS and very little to no Javascript.
 - Making use of only pure HTML and CSS. 
 - **No CSS Framework**.
+- Designing the layout using designing tools such as Figma.
+- Deplyoing using Netlify.
 
 ### Designing the Website:
 - The company focuses on consumer well being by providing a healthy diet. So, the overall personality of the website need to be more consumer focused and easy to navigate.
 - Different design elements for the website:
 
-#### Day 1 : Selecting the different design elements and sketching a basic layout.
+#### Selecting the different design elements and sketching a basic layout.
 
-1. Typography: Selected 3 different fonts based on Sans-Serif typefaces.
+1. Design Inspiration: Source: Land Book(https://land-book.com/) , one page love(https://onepagelove.com/inspiration) and many more..
+
+2. Typography: Selected 3 different fonts based on Sans-Serif typefaces.
 > Source:Google Fonts(https://fonts.google.com/)
 - Rubik -> Family: sans-serif , Font-weight used : 400,500,600,700.
 * Inter -> Family: sans-serif , Font-weight used : 400,500,600,700.
 + Noto Sans -> Family: sans-serif , Font-weight used : 400,500,600,700.
 
-2. Colors: Source : OpenColors(https://yeun.github.io/open-color/) , Coolors(https://coolors.co/palettes/trending)
+3. Colors: Source : OpenColors(https://yeun.github.io/open-color/) , Coolors(https://coolors.co/palettes/trending)
 - Main color: `#e67e22`
 * Greys : 
 
@@ -37,5 +41,6 @@
           
 + Tints and Shades: Source: Tints and Shades generator (https://maketintsandshades.com/)
 
-3. 
+4. Images: Source: Unsplash(https://unsplash.com/) , Pexels(https://www.pexels.com/)
+
 
