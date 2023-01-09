@@ -744,6 +744,7 @@
   border: none;
   cursor: pointer;
   transition: opacity 0.5s;
+  z-index: 99999;
 }
 
 .hidden {
