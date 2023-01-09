@@ -46,6 +46,7 @@
 - Tints : `#fdf2e9` , `#fae5d3` , `#45260a`
 * Shades: `#cf711f`
 + Accents: 
+
           - Paleo tag: `#ffd43b`
           - Vegan tag: `#94d82d`
           - Vegeterian tag: `#51cf66`
