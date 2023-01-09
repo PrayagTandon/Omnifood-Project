@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="css/general.css" />
+    <link rel="stylesheet" href="css/style.css" />
+    <title>Header and Navigation</title>
+  </head>
+  <body>
+    <header class="header">
+      <a href="#">
+        <img
+          class="site-logo"
+          src="img/omnifood-logo.png"
+          alt="Omnifood logo"
+        />
+      </a>
+      <nav class="main-nav">
+        <!-- For navbar we usually enclose all the links inside of an ul.(For semantics reason) -->
+        <ul class="main-nav-list">
+          <li>
+            <a href="#how" class="main-nav-link">How it works</a>
+          </li>
+          <li>
+            <a href="#meals" class="main-nav-link">Meals</a>
+          </li>
+          <li>
+            <a href="#testimonials" class="main-nav-link">Testimonials</a>
+          </li>
+          <li>
+            <a href="#pricing" class="main-nav-link">Pricing</a>
+          </li>
+          <li>
+            <!-- Used the reusable classes defined to lower the repetable CSS we need to write. -->
+            <a href="#cta" class="main-nav-link btn btn--fill">Try for free</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+  </body>
+</html>
