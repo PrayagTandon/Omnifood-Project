@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="CSS/general.css" />
+    <link rel="stylesheet" href="CSS/style.css" />
+    <title>Call to Action</title>
+  </head>
+  <body>
+    <section class="section-cta" id="cta">
+      <!-- There is a padding of 3.2rem avaliable in the cta continer because of the container class pre defined.  -->
+      <div class="container">
+        <div class="cta">
+          <div class="cta-text-box">
+            <h2 class="heading--secondary">Get your first meal for free!</h2>
+            <p class="cta-text">
+              Healthy, tasty and hassle-free meals are waiting for you. Start
+              eating well today. You can cancel or pause anytime. And the first
+              meal is on us!
+            </p>
+            <!-- Login form -->
+            <form class="cta-form" name="sign-up" netlify>
+              <div>
+                <label for="name">Full Name</label>
+                <input
+                  type="text"
+                  name="full-name"
+                  id="name"
+                  placeholder="John Smith"
+                  required
+                />
+              </div>
+
+              <div>
+                <label for="email">Email address</label>
+                <input
+                  type="email"
+                  name="e-mail"
+                  id="email"
+                  placeholder="me@example.com"
+                  required
+                />
+              </div>
+
+              <div>
+                <label for="select-where">Where did you learn about us? </label>
+                <select name="select-where" id="select-where" required>
+                  <option value="">Please choose one option:</option>
+                  <option value="friends">Friends and family</option>
+                  <option value="youtube">YouTube video</option>
+                  <option value="podcast">Podcast</option>
+                  <option value="ad">Facebook ad</option>
+                  <option value="others">Others</option>
+                </select>
+              </div>
+
+              <button type="submit" class="btn btn--form">Sign up now</button>
+            </form>
+          </div>
+
+          <div
+            class="cta-img-box"
+            role="img"
+            aria-label="Woman enjoying food"
+          ></div>
+        </div>
+      </div>
+    </section>
+  </body>
+</html>
