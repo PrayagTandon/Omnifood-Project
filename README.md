@@ -38,8 +38,17 @@
 
          - For long texts : #555555
          - For headings : #333333
+         - #767676 :- Lightest grey on #ffffff
+         - #808080
+         - #6f6f6f
           
 + Tints and Shades: Source: [Tints and Shades generator](https://maketintsandshades.com/)
+- Tints : `#fdf2e9` , `#fae5d3` , `#45260a`
+* Shades: `#cf711f`
++ Accents: 
+          - Paleo tag: `#ffd43b`
+          - Vegan tag: `#94d82d`
+          - Vegeterian tag: `#51cf66`
 
 4. Images: Source: [Unsplash](https://unsplash.com/) , [Pexels](https://www.pexels.com/)
 
